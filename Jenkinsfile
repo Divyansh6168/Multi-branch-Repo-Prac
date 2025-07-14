@@ -19,7 +19,7 @@ pipeline {
     }
     post {
         always {
-            echo "Multi Branch job finished, done some more changes !"
+            echo "Multi Branch job finished!!"
         }
     }
 }
